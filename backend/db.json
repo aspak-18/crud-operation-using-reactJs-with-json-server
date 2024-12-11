@@ -1,0 +1,53 @@
+{
+  "users": [
+    {
+      "id": "4fe4",
+      "name": "Ashfaque",
+      "email": "ash@gmail.com",
+      "password": "1234",
+      "phone": "181818"
+    },
+    {
+      "id": "9f77",
+      "name": "admin",
+      "email": "admin@gmail.com",
+      "password": "1234",
+      "phone": "8250725442"
+    },
+    {
+      "id": "16f2",
+      "name": "Albab",
+      "email": "alb@gmail.com",
+      "password": "1234",
+      "phone": "3333333"
+    },
+    {
+      "id": "1b4d",
+      "name": "Aspak",
+      "email": "asp@gmail.com",
+      "password": "1234",
+      "phone": "444444"
+    },
+    {
+      "id": "5ffc",
+      "name": "asdf",
+      "email": "asd@gmail.com",
+      "password": "1234",
+      "phone": "15451"
+    },
+    {
+      "id": "6185",
+      "name": "Manzil",
+      "email": "man@gmail.com",
+      "password": "1234",
+      "phone": "515151"
+    },
+    {
+      "id": "6488",
+      "name": "Sukman",
+      "email": "suk@gmail.com",
+      "password": "1234",
+      "phone": "6365623"
+    }
+  ]
+}
